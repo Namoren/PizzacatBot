@@ -1,14 +1,11 @@
 {
   "name": "pizzacatbot",
-  "version": "1.0.0",
-  "description": "namos pizzacatbot",
+  "version": "0.0.1",
+  "description": "pizzacatbot",
   "main": "server.js",
   "dependencies": {
     "canvas": "^1.6.11",
-    "discord-anti-spam": "^1.1.2",
-    "discord-musicbot": "^0.1.5",
     "discord.js": "^11.4.2",
-    "ffmpeg-binaries": "^4.0.0",
     "jimp": "^0.3.5",
     "node-opus": "^0.3.0",
     "opusscript": "^0.0.6",
@@ -17,9 +14,8 @@
     "quick.log-discord": "^1.1.0",
     "random-number": "0.0.9",
     "superagent": "^3.8.3",
-    "unique-random": "^2.0.0",
-    "ytdl-core": "^0.20.3"
-  },
+    "unique-random": "^2.0.0"
+     },
   "devDependencies": {},
   "scripts": {
     "test": "_test",
@@ -28,3 +24,4 @@
   "author": "Namoren",
   "license": "ISC"
 }
+
