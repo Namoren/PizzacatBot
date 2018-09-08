@@ -1,6 +1,6 @@
 const Discord = require('Discord.js');
 const client = new Discord.Client();
-
+const BOT_TOKEN = process.env.BOT_TOKEN
  
 //ready event this will run whenever the bot start
 client.on('ready', () => {
