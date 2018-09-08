@@ -73,6 +73,6 @@ client.on('ready', () => {
     });
 
 //Discord login
-client.login(precess.env.BOT_TOKEN); // here is the token needed
+client.login(process.env.BOT_TOKEN); // here is the token needed
 
 
